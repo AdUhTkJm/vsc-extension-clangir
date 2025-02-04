@@ -11,6 +11,7 @@
     "type": "git",
     "url": "https://github.com/AdUhTkJm/vsc-extension-clangir.git"
   },
+  "icon": "assets/vsc-clang-ext-logo.png",
   "categories": [
     "Other"
   ],
