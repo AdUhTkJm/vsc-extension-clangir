@@ -6,6 +6,11 @@
   "engines": {
     "vscode": "^1.96.0"
   },
+  "publisher": "AdUhTkJm",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AdUhTkJm/vsc-extension-clangir.git"
+  },
   "categories": [
     "Other"
   ],
